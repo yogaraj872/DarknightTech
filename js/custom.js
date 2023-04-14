@@ -1,3 +1,5 @@
+/* copyrights by yogaraj
+*/
 $(function () {
 
     "use strict";
@@ -48,41 +50,6 @@ $(function () {
                 }
     },
 
-  ]
-    });
-
-    // portfolio part js
-    $('.portfolio-imag').slick({
-        slidesToShow: 4,
-        slidesToScroll: 1,
-        autoplay: true,
-        arrows: true,
-        autoplaySpeed: 2000,
-        prevArrow: '.slidPrv2',
-        nextArrow: '.slidNext2',
-
-        responsive: [
-            {
-                breakpoint: 991,
-                settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 1,
-                }
-	},
-            {
-                breakpoint: 768,
-                settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 1,
-                }
-	},
-            {
-                breakpoint: 481,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 1,
-                }
-	}
   ]
     });
 
