@@ -1,6 +1,3 @@
-/* copyrights by yogaraj
-*/
-
 /* =============================================================================
 
 [Table of contents]
@@ -989,7 +986,7 @@ img {
 }
 
 /*===========================
-*** COUNT AREA START ***
+8.0 *** COUNT AREA START ***
 =============================*/
 #count {
     padding: 65px 0;
@@ -1621,7 +1618,7 @@ img {
 }
 
 /*===========================
-*** COPY_RIGHT AREA START ***
+13.0 *** COPY_RIGHT AREA START ***
 =============================*/
 
 #footer-btm {
@@ -1636,5 +1633,5 @@ img {
 }
 
 .fop-btm a {
-    color: #3217ac;
+    color: #f73859;
 }
